@@ -1,6 +1,6 @@
 #FRNZ-UI
 
-<h1>A React-UI library for creating front-end development easy</h1>
+<h1>A React-UI library template for creating front-end development easy</h1>
 
 <p>Create a basic npm package
 
